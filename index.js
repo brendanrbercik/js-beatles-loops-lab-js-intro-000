@@ -18,7 +18,6 @@ function johnLennonFacts(facts) {
     facts[i] = `${facts[i]}!!!`;
     i+=1;
   }
-
   return facts;
 }
 
@@ -29,5 +28,7 @@ do {
   array.unshift("I love the Beatles!");
   n+=1;
 } while (n < 15);
+
+return array;
 
 }
