@@ -28,7 +28,8 @@ var array = [];
 let i = 0;
 
 do {
-  array.unshift("I love the Beatles!")
+  array.unshift("I love the Beatles!");
+  i +=1;
 } while (i < 15);
 
 }
