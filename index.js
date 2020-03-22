@@ -29,7 +29,7 @@ let i = 0;
 
 do {
   array.unshift("I love the Beatles!");
-  i+=1;
+  n+=1;
 } while (n < 15);
 
 }
